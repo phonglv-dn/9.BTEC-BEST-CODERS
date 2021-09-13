@@ -1,0 +1,4 @@
+Tính năng giúp đỡ người vô gia cư, tung tin này trang tin tức hoặc trang khẩn cấp, để ai đó vào xem có thể giúp đỡ
+
+Tạo xe đưa hàng điều khiển từ xa (sử dụng IOT)=> Sau khi dự án web được sử dụng phổ biến
+	=> Vừa nằm hổ trợ khoảng cách, k mang vác nặng, vừa có kinh phí để duy trì dự án.
